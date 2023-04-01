@@ -3,8 +3,11 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     font-weight: 500;
-    color: rgb(94, 110, 102);
+    color: rgb(165, 168, 167);
     background-color: black;
+    overflow-y:scroll;
+    min-width: 768px;
+    max-width: 1024px;
 }
 * {
     
