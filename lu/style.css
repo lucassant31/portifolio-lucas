@@ -10,6 +10,28 @@
     max-width: 1024px;
     text-align: center;
 }
-* {
+h1 { font-size: 32px;
+    background-color: rgb(54, 52, 52);
     
 }
+.paragrafo2{
+    font-size: 30px;
+    background-color: bisque;
+
+}
+
+input{
+    background-color: beige;
+    
+}
+
+    div{
+        background-image: url("https://st.depositphotos.com/1004590/3981/i/600/depositphotos_39819255-stock-photo-html-codes.jpg");
+        height: 300px;
+        width: 30px;
+    }
+    
+    body{
+        flex-direction: column-reverse;
+    }
+
