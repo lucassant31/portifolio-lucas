@@ -4,34 +4,36 @@
     font-style: italic;
     font-weight: 500;
     color: rgb(165, 168, 167);
-    background-color: black;
-    overflow-y:scroll;
+    background-color: rgb(219, 108, 108);
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    
 }
-h1 { font-size: 32px;
-    background-color: rgb(54, 52, 52);
+h1 { 
     width: 550px;
     height: 50px
 }
 .paragrafo2{
-    font-size: 30px;
-    background-color: bisque;
-
+    font-size: 20px;
+    color: black;
+    width: 400px;
+    height: 400px ;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-input{
-    background-color: beige;
-    width: 100px; 
-    
-}
-
-    div{
-        background-image: url("https://st.depositphotos.com/1004590/3981/i/600/depositphotos_39819255-stock-photo-html-codes.jpg");
-    
-    
-    }
-    
     body{
         flex-direction: column-reverse;
     }
 
+    div {
+        background-color: aliceblue;
+        width: 412px;
+        height: 412px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 20px;   
+    }
