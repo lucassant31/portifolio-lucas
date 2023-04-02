@@ -6,13 +6,12 @@
     color: rgb(165, 168, 167);
     background-color: black;
     overflow-y:scroll;
-    min-width: 768px;
-    max-width: 1024px;
     text-align: center;
 }
 h1 { font-size: 32px;
     background-color: rgb(54, 52, 52);
-    
+    width: 550px;
+    height: 50px
 }
 .paragrafo2{
     font-size: 30px;
@@ -22,13 +21,14 @@ h1 { font-size: 32px;
 
 input{
     background-color: beige;
+    width: 100px; 
     
 }
 
     div{
         background-image: url("https://st.depositphotos.com/1004590/3981/i/600/depositphotos_39819255-stock-photo-html-codes.jpg");
-        height: 300px;
-        width: 30px;
+    
+    
     }
     
     body{
