@@ -12,7 +12,9 @@
     margin-top: auto;
     
 }
-h1 { 
+
+h1 { margin-left: auto;
+    margin-right: auto;
     width: 550px;
     height: 50px
 }
