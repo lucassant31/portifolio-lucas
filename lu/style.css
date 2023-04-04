@@ -31,10 +31,10 @@ h1 { margin-left: auto;
         flex-direction: column-reverse;
     }
 
-    div {
+    div { 
         background-color: aliceblue;
-        width: 412px;
-        height: 412px;
+        width: 312px;
+        height: 212px;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
