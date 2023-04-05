@@ -2,9 +2,9 @@
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
-    font-weight: 500;
-    color: rgb(165, 168, 167);
-    background-color: rgb(219, 108, 108);
+    font-weight: auto;
+    color: rgb(0, 0, 0);
+    background-color: rgb(54, 168, 143);
     
     text-align: center;
     margin-left: auto;
@@ -18,30 +18,23 @@ h1 { margin-left: auto;
     width: 550px;
     height: 50px
 }
-.paragrafo2{
-    font-size: 20px;
-    color: black;
-    width: 400px;
-    height: 400px ;
-    margin-left: auto;
-    margin-right: auto;
-}
 
     body{
         flex-direction: column-reverse;
+        
     }
 
     div { 
-        background-color: aliceblue;
-        width: 312px;
-        height: 212px;
+        background-color: rgb(61, 61, 61);
+        width: 512px;
+        height: 312px;
         text-align: center;
-        margin-left: auto;
+        margin-left: center;
         margin-right: auto;
         font-size: 20px;   
     }
     
-    
+  
     
 
     
